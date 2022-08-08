@@ -38,7 +38,7 @@
 
 ### Tools :  **Circleci, Bash, GitOps, Git ,  GitHub,  Gradle ,  Slack, Vs Code, Groovy, DSL, Asdf,  EKS,  ECR,  Helm,  Docker ,  YAML, JSON, Python, Terraform, Atlantis, Codebuild, Serverless, GitHub API, API Gateway, KMS, EC2, S3, Jira, DynamoDB, Git Lense, Lens, Splunks, Datadog, Komodor, GitKraken, Okta…**
 
-## 2020-10 - 2021-09  Independent Consultant | DevOps** |  *Udacity*
+## 2020-10 - 2021-09  Independent Consultant | DevOps |  *Udacity*
 
 **CICD** 
 
@@ -125,4 +125,4 @@ Federal University of Technology, Minna - Niger State, Nigeria  __Grade: 2.1 -  
 - Certified Apache Cassandra in Kubernetes 
 - GitLab Certified Associate 
 
-for more, visit [` `CREDENTIALS](https://v2.credential.net/profile/isahidris594532/wallet) 
+for more, visit [CREDENTIALS](https://v2.credential.net/profile/isahidris594532/wallet) 
