@@ -1,16 +1,9 @@
-﻿` `**Isah Idris ![](Aspose.Words.083fcefd-89c6-4d99-a0e0-29bb363a1199.001.png)**
+﻿
+## ABOUT ME
 
-` `DevOps Engineer II @Bitso 
+*An  aspiring  Principal  DevOps  Engineer  with  an  outgoing  personality-curious,  candid,  technologist,  leader,  communicator,  lifelong-learner,  and  an  entrepreneur  with  a  passion  for  helping  customers  solve  problems  related  to  distributed  systems  and  microservices.  On  ownership  initiative,  I  focus  my  thought  processes  as  part  of  a  team  or  as  an  individual  contributor,  l  provide  Developer  experience  enablement  (DevX)  related  services,  or  execute  projects related to CICD using DevOps practices with open- source or/and proprietary resources.*
 
-` `Abuja, Abuja Federal Capital Territory  **[LinkedI](https://www.linkedin.com/in/i-idris-289527108/) n [ Github](https://github.com/eedygreen)** 
-
-` `**+234**7**  036204041  **<eedygreen@outlook.com>** 
-
-` `**ABOUT ME** 
-
-` `An  aspiring  Principal  DevOps  Engineer  with  an  outgoing  personality-curious,  candid,  technologist,  leader,  communicator,  lifelong-learner,  and  an  entrepreneur  with  a  passion  for  helping  customers  solve  problems  related  to  distributed  systems  and  microservices.  On  ownership  initiative,  I  focus  my  thought  processes  as  part  of  a  team  or  as  an  individual  contributor,  l  provide  Developer  experience  enablement  (DevX)  related  services,  or  execute  projects related to CICD using DevOps practices with open- source or/and proprietary resources. 
-
-` `**STRENGTHS - SKILLS** 
+## STRENGTHS - SKILLS
 
 - **Developer Enablement-DevX** , CICD & Tooling-Design process automation, Build, Test, Deploy & Monitor 
 - **Designed**  and  **implemented microservices**  environments with automation testing and POC 
@@ -20,9 +13,9 @@
 - **Continuous learning and experimentation** 
 - DevOps, Cloud, Distributed technologies, Blockchain, IaC, GitOps, IAM, Python & Bash scripting 
 
-` `**WORK HISTORY** 
+## WORK HISTORY
 
-` `**2021-10 - 2022-06  DevOps Engineer II -  DevX & Tooling**  |  *Bitso* 
+## 2021-10 - 2022-06  DevOps Engineer II -  DevX & Tooling  |  *Bitso* 
 
 - **DevX Support**  to developers 
 - *Improved  **Developer experience***  and  **tooling**  through  Build, Test, Deploy & troubleshoot 
@@ -43,20 +36,18 @@
 - ***Collaborated**  with team members &*  identified  ***tech-debt***  and  ***improved***  current processes 
 - *Created a  **roadmap for improving engineering communication**  &  **organization strategy*** 
 
-` `**Tools** :  **Circleci, Bash, GitOps, Git** ,  **GitHub,  Gradle** ,  Slack, Vs Code, Groovy, DSL, Asdf,  **EKS**,**  ECR,  **Helm,  Docker** ,  YAML, JSON, Python, Terraform, Atlantis, Codebuild, Serverless, GitHub API, API Gateway, KMS, EC2, S3, Jira, 
+### Tools :  **Circleci, Bash, GitOps, Git ,  GitHub,  Gradle ,  Slack, Vs Code, Groovy, DSL, Asdf,  EKS,  ECR,  Helm,  Docker ,  YAML, JSON, Python, Terraform, Atlantis, Codebuild, Serverless, GitHub API, API Gateway, KMS, EC2, S3, Jira, DynamoDB, Git Lense, Lens, Splunks, Datadog, Komodor, GitKraken, Okta…**
 
-` `DynamoDB, Git Lense, Lens, Splunks, Datadog, Komodor, GitKraken, Okta… 
+## 2020-10 - 2021-09  Independent Consultant | DevOps** |  *Udacity*
 
-**2  020-10 - 2021-09  Independent Consultant | DevOps** |  *U  dacity ![](Aspose.Words.083fcefd-89c6-4d99-a0e0-29bb363a1199.001.png)*
-
-` `**CICD** 
+**CICD** 
 
 - Integrated & deployed  ***ML Flask application with Circle-C*** I,  Git, GitHub 
 - ***Built,  d  eployed,  t ested,  monitored  and  maintained  Blue-Green**  CI/CD  Pipeline*  f or  containerized workloads on AWS EKS cluster with Jenkins, Groovy, Git, & GitHub 
 
 **T  ools:**  *Iac, Cloudformation, Jenkins, EKS, Git, GitHub, G  roovy, DSL* 
 
-` `**Cloud Development on AWS** 
+**Cloud Development on AWS** 
 
 - ***Refactored**  a  Machine-Learning  **Flask  application***  to  ***microservices*** -Docker,  Pip,  CircleCi,  GitHub 
 - Developed  &  deployed  an  *image  filtering  API*  on  AWS  Elastic  Beanstalk  using  *Typescript* 
@@ -66,21 +57,21 @@
 - ***Refactored  e-commerce***  app  ***from  monolith  to  serverless***  on  AWS  Lambda-API  services with Lambda, API Gateway, DynamoDB, S3, Typescript & Nodejs 
 - Deployed  static  web  pages  on  AWS  S3  bucket  using  CloudFront  as  CDN  for  global  delivery to users 
 
-` `**AWS Cloud Architecture &  Iac-Infrastructure as Code** 
+**AWS Cloud Architecture &  Iac-Infrastructure as Code** 
 
 - **Provisioned**  Kubesphere  on  the  EKS  cluster  with  ***Terraform  &  Kops*** ,  and  **Deployed**  Drool,  k6, Dapr, Apisix, Keda on Kubesphere with  ***helm*** 
 - ***Designed***  Elastic  Infrastructure  to  host  social  media  application  for  50,000  users  &  ***deployed with Terraform*** 
 - Scaled & Monitored AWS  ***Infrastructure with Terraform*** 
 - ***Designed***  &  ***implemented  Serverless  Architecture***  for  remote  developers  using  cloudfront as edge access point, cognito for authentication & Route 53. 
 
-` `**Monitoring & Observability** 
+**Monitoring & Observability** 
 
 - Integrated & deployed  *end-to-end distributed tracing  with the Jaeger Operator*  on EKS cluster 
 - ***Deployed Kube-Prometheus & metrics-aggregator***  on the  Kubernetes cluster  *using Helm* . 
 - Monitored & observed kubernetes workloads with  ***Grafana  custom metrics-CPU & Memory*** 
 - Troubleshoot k8s cluster with  ***distributed tracing  metrics*** 
 
-` `**Security** 
+**Security** 
 
 - Secured  *Web  application*  with  ***IAM  policy,  AWS  Inspect,  GaurdDuty,  AWS  Config,  S3  encrypt* .** 
 - *Recovered Web application*  with AWS S3 deletion marker  & RDS database replication. 
@@ -93,7 +84,7 @@
 
 - Cybersecurity & Cloud Solutions, capacity building and professional development 
 
-` `**2017-06 - 2017-12  IT Support Engineer**  |  *Futminna |  NIGERIA* 
+**2017-06 - 2017-12  IT Support Engineer**  |  *Futminna |  NIGERIA* 
 
 - Mitigated malicious attempts on the telnet protocol with firewall filtering rules. 
 - Configured Kaspersky for Security-Endpoint. 
@@ -112,21 +103,21 @@
 - Provide Support via Remote Desktop connection. 
 - ERP management, account creation, monthly audit, users on-boarding and administration 
 
-` `**EDUCATION ![](Aspose.Words.083fcefd-89c6-4d99-a0e0-29bb363a1199.002.png)**
+## EDUCATION
 
-` `**2014-10 - 2018-10  Bachelor of Technology: Computer  Science (Cyber Security)** 
+**2014-10 - 2018-10  Bachelor of Technology: Computer  Science (Cyber Security)** 
 
-` `Federal University of Technology, Minna - Niger State, Nigeria  __Grade: 2.1 -  *Second Class (*__ *Upper Division __)__* 
+Federal University of Technology, Minna - Niger State, Nigeria  __Grade: 2.1 -  *Second Class (*__ *Upper Division __)__* 
 
 - Virtualization & Cloud Computing Linux Administration & Infrastructure 
 - Security System Configuration & Identity Management 
 - Compliance frameworks, ISO 27001, NIST 800-53 
 
-` `**2020-04 - 2020-06  NanoDegree: DevOps Engineer |**  *U  dacity* 
+**2020-04 - 2020-06  NanoDegree: DevOps Engineer |**  *U  dacity* 
 
-` `**2020-05 - 2020-06  NanoDegree: AWS Cloud Architect |**  *U  dacity* 
+**2020-05 - 2020-06  NanoDegree: AWS Cloud Architect |**  *U  dacity* 
 
-` `**PROFESSIONAL CERTIFICATIONS: ![](Aspose.Words.083fcefd-89c6-4d99-a0e0-29bb363a1199.003.png)**
+## PROFESSIONAL CERTIFICATIONS
 
 - SkillFront Enterprise Design Thinking Practitioner 
 - IBM Lean Foundations Professional 
@@ -134,4 +125,4 @@
 - Certified Apache Cassandra in Kubernetes 
 - GitLab Certified Associate 
 
-` `for more, visit [` `**CREDENTIALS](https://v2.credential.net/profile/isahidris594532/wallet)** 
+for more, visit [` `CREDENTIALS](https://v2.credential.net/profile/isahidris594532/wallet) 
