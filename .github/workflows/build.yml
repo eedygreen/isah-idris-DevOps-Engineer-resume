@@ -21,4 +21,4 @@ jobs:
     - name: Set up Gradle Build Action
       uses: gradle/gradle-build-action@v2.2.1
       with:
-        arguments: gradle build --scan
+        arguments: build --scan
