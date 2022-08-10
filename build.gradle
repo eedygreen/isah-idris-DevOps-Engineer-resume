@@ -1,6 +1,6 @@
 buildscripts {
     repositories {
-        maven { url 'http://repo1.maven.org/maven2' }
+        mavenCentral()
         google()
         
     }
