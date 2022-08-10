@@ -6,7 +6,7 @@ buildscript {
     }
     dependencies {
         classpath 'com.google.guava:guava:31.1-jre'
-        testImplementation 'junit:junit:14.13'
+        testImplementation 'junit:junit:14.13.2'
         }
 
 }
