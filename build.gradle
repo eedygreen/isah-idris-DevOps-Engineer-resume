@@ -1,8 +1,4 @@
-plugins {
-    id 'java'
-}
-
-buildscipt {
+buildscipts {
     repositories {
         maven  { url 'http://repo1.maven.org/maven2' }
         
@@ -14,13 +10,9 @@ buildscipt {
 
 }
 
-allprojects {
-    repositories {
-    google()
-    mavenCentral()
-    }
+plugins {
+    id 'java'
 }
-
 
 java {
     toolchain {
@@ -32,4 +24,11 @@ test {
     useJUnit()
 
     maxHeapSize = '1G'
+}
+
+allprojects {
+    repositories {
+    google()
+    mavenCentral()
+    }
 }
