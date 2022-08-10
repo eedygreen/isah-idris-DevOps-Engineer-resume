@@ -12,7 +12,7 @@ buildscript {
 }
 
 plugins {
-    id 'java' versions '18.0.2'
+    id 'java'
 }
 
 java {
