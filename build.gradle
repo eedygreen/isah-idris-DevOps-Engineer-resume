@@ -5,8 +5,8 @@ buildscript {
         
     }
     dependencies {
-        implementation("com.google.guava:guava:31.1-jre")
-        testImplementation("junit:junit:14.13")
+        implementation 'com.google.guava:guava:31.1-jre'
+        testImplementation 'junit:junit:14.13'
         }
 
 }
