@@ -1,0 +1,14 @@
+
+plugins {
+    id "com.gradle.enterprise" version "3.10.3"
+}
+
+gradleEnterprise {
+    buildScan {
+        termsOfServiceUrl = "https://gradle.com/terms-of-service"
+        termsOfServiceAgree = "yes"
+        tag "cloud-infra-engineer"
+    }
+}
+
+rootProject.name = 'isah-idris-DevOps-Engineer-resume'

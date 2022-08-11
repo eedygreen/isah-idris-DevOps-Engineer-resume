@@ -1,4 +1,4 @@
-﻿
+﻿![Gradle Build](https://github.com/eedygreen/isah-idris-DevOps-Engineer-resume/actions/workflows/build.yml/badge.svg)   ![Gradle Validate](https://github.com/eedygreen/isah-idris-DevOps-Engineer-resume/actions/workflows/wrapper-validation.yml/badge.svg)   ![Bash](https://github.com/eedygreen/isah-idris-DevOps-Engineer-resume/actions/workflows/lint.yml/badge.svg)
 ## ABOUT ME
 
 *An  aspiring  Principal  DevOps  Engineer  with  an  outgoing  personality-curious,  candid,  technologist,  leader,  communicator,  lifelong-learner,  and  an  entrepreneur  with  a  passion  for  helping  customers  solve  problems  related  to  distributed  systems  and  microservices.  On  ownership  initiative,  I  focus  my  thought  processes  as  part  of  a  team  or  as  an  individual  contributor,  l  provide  Developer  experience  enablement  (DevX)  related  services,  or  execute  projects related to CICD using DevOps practices with open- source or/and proprietary resources.*
@@ -38,7 +38,7 @@
 
 ### Tools :  **Circleci, Bash, GitOps, Git ,  GitHub,  Gradle ,  Slack, Vs Code, Groovy, DSL, Asdf,  EKS,  ECR,  Helm,  Docker ,  YAML, JSON, Python, Terraform, Atlantis, Codebuild, Serverless, GitHub API, API Gateway, KMS, EC2, S3, Jira, DynamoDB, Git Lense, Lens, Splunks, Datadog, Komodor, GitKraken, Okta…**
 
-## 2020-10 - 2021-09  Independent Consultant | DevOps** |  *Udacity*
+## 2020-10 - 2021-09  Independent Consultant | DevOps |  *Udacity*
 
 **CICD** 
 
@@ -125,4 +125,4 @@ Federal University of Technology, Minna - Niger State, Nigeria  __Grade: 2.1 -  
 - Certified Apache Cassandra in Kubernetes 
 - GitLab Certified Associate 
 
-for more, visit [` `CREDENTIALS](https://v2.credential.net/profile/isahidris594532/wallet) 
+for more, visit [CREDENTIALS](https://v2.credential.net/profile/isahidris594532/wallet) 
