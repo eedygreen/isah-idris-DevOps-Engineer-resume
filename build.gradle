@@ -1,18 +1,34 @@
+buildscript {
+    repositories {
+        mavenCentral()
+        google()
+        
+    }
+    dependencies {
+        classpath 'com.google.guava:guava:31.1-jre'
+        }
+
+}
+
 plugins {
     id 'java'
-}
-
-repositories {
-    mavenCentral()
-}
-
-dependencies {
-    implementation "com.google.guava:guava:31.1.jre"
-    test "junit:junit:14.13.2"
 }
 
 java {
     toolchain {
         languageVersion = JavaLanguageVersion.of(18)
+    }
+}
+
+test {
+    useJUnit()
+
+    maxHeapSize = '1G'
+}
+
+allprojects {
+    repositories {
+    google()
+    mavenCentral()
     }
 }
