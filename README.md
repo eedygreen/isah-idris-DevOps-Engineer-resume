@@ -80,7 +80,7 @@
 - Performed  *Security Audit*  and risk score with DREAD  model. 
 - Implemented  *RISK remediation*  strategy with bcrypt  & python using SHA-512 algorithm. 
 
-**2  018-02 - 2019-05  I T Consultant**  |  *Real Time Integrated  Technologies* 
+## 2  018-02 - 2019-05  I T Consultant  |  *Real Time Integrated  Technologies* 
 
 - Cybersecurity & Cloud Solutions, capacity building and professional development 
 
@@ -113,9 +113,9 @@ Federal University of Technology, Minna - Niger State, Nigeria  __Grade: 2.1 -  
 - Security System Configuration & Identity Management 
 - Compliance frameworks, ISO 27001, NIST 800-53 
 
-**2020-04 - 2020-06  NanoDegree: DevOps Engineer |**  *U  dacity* 
+**2020-04 - 2020-06  NanoDegree: DevOps Engineer |  Udacity**
 
-**2020-05 - 2020-06  NanoDegree: AWS Cloud Architect |**  *U  dacity* 
+**2020-05 - 2020-06  NanoDegree: AWS Cloud Architect | Udacity** 
 
 ## PROFESSIONAL CERTIFICATIONS
 
