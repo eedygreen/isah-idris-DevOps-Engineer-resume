@@ -1,9 +1,9 @@
-﻿![Gradle Build](https://github.com/eedygreen/isah-idris-DevOps-Engineer-resume/actions/workflows/build.yml/badge.svg)   ![Gradle Validate](https://github.com/eedygreen/isah-idris-DevOps-Engineer-resume/actions/workflows/wrapper-validation.yml/badge.svg)   ![Bash](https://github.com/eedygreen/isah-idris-DevOps-Engineer-resume/actions/workflows/lint.yml/badge.svg)
+﻿
 ISAH IDRIS
 DEVOPS ENGINEER II
-eedygreen@outlook.com LinkedIn
-GitHub
-    About Me
+eedygreen@outlook.com [LinkedIn]()  [GitHub]()
+
+## About Me
 Strength - Skills
 Technical
 I'm an aspiring Principal DevOps Engineer with an outgoing personality-curious, candid, technologist, leader, communicator, lifelong-learner, and an entrepreneur with a passion for helping customers solve problems related to distributed systems and microservices. On ownership initiative, I focus my thought processes as part of a team or as an individual contributor, I provide developer experience (DevX) enablement related services, or execute projects related to CICD using DevOps practices with open-source or/and proprietary resources.
