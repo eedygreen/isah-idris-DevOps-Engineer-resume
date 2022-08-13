@@ -71,4 +71,13 @@ a#pdf:hover { background: #222; }
 .yui-gf .yui-u{width:85.2%;}
 .yui-gf div.first{width:14.3%;}
 
+.notice-word-wrap{
+    display: block; 
+    width: auto;
+    height: auto;
+    word-break: keep-all;
+    word-wrap: normal; 
+    white-space: normal
+}
+
 
