@@ -1,6 +1,6 @@
 # IT Support Engineer @Futminna
 
-FUTMINNA *– (*June 2017 - Dec 2017*)*
+**FUTMINNA** – *June 2017 - Dec 2017*
 
 - Achievement on the first day of resumption, I identified **malicious attempts** on the **telnet protocol** and mitigated the attack by **creating firewall filtering rules,** subsequently, I **c**onfigured Kaspersky for **Security-Endpoint.**
 - I also adopt a strategy for High-**performance visibility** & **real-time network monitoring** with **Ntopng** on Mikrotik/CISCO devices.

@@ -81,7 +81,7 @@ I enjoy writing about technical subjects and I feel I can do a pretty good job a
 
 Jira (Sprint & Kanban), Notion, Slack, Google Meet, Zoom
 
-### Versioning
+### Versioning  ⭐️⭐️⭐️
 
 Git, GitHub, Jira
 

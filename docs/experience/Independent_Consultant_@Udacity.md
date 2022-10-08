@@ -1,6 +1,6 @@
 # Independent Consultant @Udacity
 
-*Udacity - (Oct 2020 - Sept 2021)*
+**Udacity** - *Oct 2020 - Sept 2021*
 
 ### **CICD**
 
