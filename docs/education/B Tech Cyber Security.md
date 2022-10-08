@@ -7,4 +7,4 @@ Grade: *UK 2.1 - Second Class (Upper Division)* 👏
 
 ### Certifications
 
-[Certifications](https://eedygree.github.io/certification/Certifications.md)
+[Certifications](https://eedygree.github.io/certification/Certifications)
