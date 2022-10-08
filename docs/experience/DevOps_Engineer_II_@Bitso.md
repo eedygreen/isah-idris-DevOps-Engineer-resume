@@ -3,7 +3,8 @@
 **Bitso** - *Oct 2021 - June 2022*
 
 - As a DevOps Engineer interfacing with developers, my focus is to understand the problems facing developers and provide good **Developer Experience**  (DevX) supports and also **identified** manual **processes** and **improved** the process through **automation**
-- I improved developer experience and **tooling** through **Build, Test, Deploy** & **troubleshoot** and ****I engaged on daily **troubleshooting** & resolving **deployments** (issues with developers) ****of different **kubernetes’ environments**
+- I improved developer experience and **tooling** through **Build, Test, Deploy** & **troubleshoot** and 
+- **I engaged** on daily **troubleshooting** & resolving **deployments** (issues with developers) of different **kubernetes’ environments**
 - I built, deployed, test, monitor, improved existing **CICD** process with **infrastructure as code.** and built Spinnaker **pipelines** for **multiple** and **production** environments ****and **Automated** Spinnaker **deployments** with GitHub webhooks
 - I maintained **fault tolerant** end-to-end **CICD pipelines** for **production**(over **5 million users**)
 - I designed & implemented **microservices environments** for listing **crypto-tokens** and I developed the **template** to automate **CICD** tooling, published **Java libraries** (spring & micronaut frameworks) with **GitOps** & **cookiecutter**
