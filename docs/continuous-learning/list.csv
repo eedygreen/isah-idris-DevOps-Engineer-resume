@@ -1,0 +1,10 @@
+﻿Type,Name,Status,Score /5,Author,Publisher,Link,Summary
+YouTube,FastAPI,Watching,⭐️⭐️⭐️⭐️,Sanjeev Thiyagarajan,YouTube,https://www.youtube.com/watch?v=0sOvCWFmrtA&list=PPSV,
+Books,Radical Candour,Reading,⭐️⭐️⭐️⭐️⭐️,,NYT,,
+Workshops,Istio,Doing,⭐️⭐️⭐️⭐️,,,,
+Labs,Istio Lab,Doing,,,,,
+YouTube,Go Programming,Ready to Start,⭐️⭐️⭐️,,,,
+Vendor,KubeBuilder - K8s Operator development,Ready to Start,⭐️⭐️⭐️,,,,
+Books,The Path to GitOps,Finished,⭐️⭐️⭐️⭐️⭐️,Christian Hanerndenz,Red Hat,,
+Vendor,Nomad,Watching,⭐️⭐️,,HashiCorp,https://learn.hashicorp.com/nomad,
+Workshops,GitOps,Doing,⭐️⭐️⭐️⭐️,CodeFresh University,,,
