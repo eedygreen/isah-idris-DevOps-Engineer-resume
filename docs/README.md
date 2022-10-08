@@ -11,7 +11,7 @@
 **English :** Proficient                    **[Tool Version Manager](https://www.notion.so/Tool-Version-Manager-e8280abe22094d219853ee02bf075e40)**                    **[Learning List ](continuous-learning/list/FastAPI.md)**
 
 <br></br>
-### ☎️ Contact Information
+### ☎️ Contacts
 
 📧 eedygreen@outlook.com                              🐦 [GitHub](https://github.com/eedygreen)                        🔗 [LinkedIn](https://www.linkedin.com/in/i-idris-289527108/)               
 
