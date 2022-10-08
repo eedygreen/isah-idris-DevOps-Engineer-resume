@@ -5,7 +5,7 @@
 ### **CICD**
 
 - I built a **Continuous Integration & Delivery pipeline** for Machine Learning (Flask) application with Circle-CI, Git, GitHub
-- I built **Blue-Green CI/CD Pipeline** with **Jenkins**, deployed, tested, monitored and maintained  ****for containerized workloads on AWS
+- I built **Blue-Green CI/CD Pipeline** with **Jenkins**, deployed, tested, monitored and maintained for containerized workloads on AWS
 
 ### **Tools & Technology used**
 
