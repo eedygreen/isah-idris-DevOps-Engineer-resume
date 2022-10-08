@@ -1,7 +1,5 @@
 # DevOps Engineer II @Bitso
 
-## DevOps **Engineer II**
-
 **Bitso** - *Oct 2021 - June 2022*
 
 - As a DevOps Engineer interfacing with developers, my focus is to understand the problems facing developers and provide good **Developer Experience**  (DevX) supports and also **identified** manual **processes** and **improved** the process through **automation**
