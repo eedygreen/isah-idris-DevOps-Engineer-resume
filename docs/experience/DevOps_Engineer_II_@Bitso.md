@@ -22,9 +22,8 @@ CICD            | Cloud          | Microservices  | GitOps         | IAC        
 ----------------|----------------|----------------|----------------|----------------|----------------
 CircleCi        | AWS            | Kubernetes     | GitHub Actions | Terraform      | Jira
 Docker          | EC2            |   Helm         | YAML           | Atlantis       | Slack
-Gradle          | IAM, KMS       | Docker         | Git            |  Boto3         | Sprint, Kanban
-Groovy          | S3, Cloud Watch| K8s Lens       | GitHub repos   | 
-Slack           | EKS, ECR, ECS  | Bash, Linux    | GitHub Runners |
-Spinnaker       | CodeBuild      | Python         | GitHub Branches protections| 
-
-JSON, YAML, DynamoDB, Splunk DataDog, Komodor, Asdf, Okta SSO
+Gradle          | IAM, KMS       | Docker         | Git            |  Boto3         | Sprint
+Groovy          | S3, Cloud Watch| K8s Lens       | GitHub repos   | JSON           | Kanban
+Slack           | EKS, ECR, ECS  | Bash, Linux    | GitHub Runners | YAML           | Google Meet
+Spinnaker       | CodeBuild      | Python         | GitHub Branches protections|Asdf| Zoom
+ DataDog, Splunk| DynamoDB       | Lambda         | Okta SSO       |                | komodor
