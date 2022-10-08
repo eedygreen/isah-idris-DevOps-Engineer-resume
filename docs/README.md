@@ -6,14 +6,10 @@
 
 ---
 
-### 🗣 Languages                    📜 Articles
+### 🗣 Languages                    📜 Articles                    Learnging Journey
 
-**English :** Proficient                    **[Tool Version Manager](https://www.notion.so/Tool-Version-Manager-e8280abe22094d219853ee02bf075e40)**
+**English :** Proficient                    **[Tool Version Manager](https://www.notion.so/Tool-Version-Manager-e8280abe22094d219853ee02bf075e40)**                    **[Learning List ](continuous-learning/list/FastAPI.md)**
 
-
-### Learnging Journey
-
-[Learning List ](continuous-learning/list/FastAPI.md)
 
 ### ☎️ Contact Information
 
