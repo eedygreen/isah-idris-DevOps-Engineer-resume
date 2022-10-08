@@ -13,7 +13,7 @@
 
 ### Learnging Journey
 
-[Learning List ](continuous-learning/list/)
+[Learning List ](continuous-learning/list/FastAPI.md)
 
 ### ☎️ Contact Information
 
