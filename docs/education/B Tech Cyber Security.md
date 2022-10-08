@@ -5,6 +5,6 @@ Federal University of Technology, Minna, Nigeria, 2014 - 2018
 
 Grade: *UK 2.1 - Second Class (Upper Division)* 👏
 
-## Certifications
+### Certifications
 
-[Certifications](/certification/Certifications.md)
+[Certifications](certification/Certifications.md)
