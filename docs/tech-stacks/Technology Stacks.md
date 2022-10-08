@@ -1,4 +1,3 @@
-## Technology Stacks
 
 Technologies and Tools I have worked with for over 3 years
 
