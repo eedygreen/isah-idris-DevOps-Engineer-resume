@@ -18,62 +18,13 @@
 
 ### **Tools and technology used**
 
-CircleCi
+CICD            | Cloud          | Microservices  | GitOps         | IAC            | Collaboration
+----------------|----------------|----------------|----------------|----------------|----------------
+CircleCi        | AWS            | Kubernetes     | GitHub Actions | Terraform      | Jira
+Docker          | EC2            |   Helm         | YAML           | Atlantis       | Slack
+Gradle          | IAM, KMS       | Docker         | Git            |  Boto3         | Sprint, Kanban
+Groovy          | S3, Cloud Watch| K8s Lens       | GitHub repos   | 
+Slack           | EKS, ECR, ECS  | Bash, Linux    | GitHub Runners |
+Spinnaker       | CodeBuild      | Python         | GitHub Branches protections| 
 
-Gradle
-
-Docker
-
-EC2
-
-KMS
-
-AWS
-
-Bash
-
-Slack
-
-Python
-
-S3
-
-Jira
-
-JSON
-
-GitOps
-
-Groovy
-
-YAML
-
-DynamoDB
-
-Splunk
-
-Linux
-
-Git
-
-Asdf
-
-Terraform
-
-Komodor
-
-Okta
-
-Kubernetes
-
-GitHub
-
-EKS
-
-CodeBuild
-
-ECR
-
-Lens
-
-Helm
+JSON, YAML, DynamoDB, Splunk DataDog, Komodor, Asdf, Okta SSO
