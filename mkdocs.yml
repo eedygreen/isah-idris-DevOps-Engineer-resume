@@ -1,0 +1,29 @@
+site_name: DevOps Engineer
+
+nav: 
+   - Home: 'README.md'
+   - Experience: 
+        - 9yrs of Experience: 'experience/Work_Experience_9yrs.md'
+        - DevOps Engineer II @Bitso: 'experience/DevOps_Engineer_II_@Bitso.md'
+        - Independent Consultant @Udacity: 'experience/Independent_Consultant_@Udacity.md'
+        - IT Consultant: 'experience/IT_Consultant.md'
+        - IT Support Engineer: 'experience/IT_Support_Engineer_@Futminna.md'
+        - IT Support Specialist: 'experience/IT_Support_Specialist.md'
+   - Skills: 'skills/skills.md'
+   - Tech Stacks: 'tech-stacks/Technology Stacks.md'
+   - Education: 'education/B Tech Cyber Security.md'
+   - Certifications: 'certification/Certifications.md'
+   - Continuous Learning: 
+        - Stacks & Skills: 
+            - FastAPI: 'continuous-learning/list/FastAPI.md'
+            - GitOps: 'continuous-learning/list/GitOps.md'
+            - Go with Kubernetes Operator: 'continuous-learning/list/Go Programming.md'
+            - Kubernetes API: 'continuous-learning/list/KubeBuilder - K8s Operator development.md'
+            - Lab: 'continuous-learning/list/Istio Lab.md'
+            - Istio - k8s Traffic management: 'continuous-learning/list/Istio.md'
+            - Nomad: 'continuous-learning/list/Nomad.md'
+        - Books: 
+            - Reading: 'continuous-learning/list/Radical Candour.md'
+            - Read: 'continuous-learning/list/The Path to GitOps.md'
+theme:
+   name: material
