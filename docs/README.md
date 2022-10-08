@@ -8,7 +8,7 @@
 
 ### 🗣 Languages                    📜 Articles
 
-**English :** Proficient                                   **[Tool Version Manager](https://www.notion.so/Tool-Version-Manager-e8280abe22094d219853ee02bf075e40)**
+**English :** Proficient                    **[Tool Version Manager](https://www.notion.so/Tool-Version-Manager-e8280abe22094d219853ee02bf075e40)**
 
 
 ### Learnging Journey
