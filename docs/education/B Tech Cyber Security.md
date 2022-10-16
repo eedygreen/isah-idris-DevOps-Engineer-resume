@@ -5,7 +5,7 @@ Federal University of Technology, Minna, Nigeria, 2014 - 2018
 
 Grade: *UK 2.1 - Second Class (Upper Division)* 👏
 
-### NanoDegree @Udacity
+### **NanoDegree** @Udacity
 - DevOps Engineer
 - AWS Cloud Architect
 - Mentorship
