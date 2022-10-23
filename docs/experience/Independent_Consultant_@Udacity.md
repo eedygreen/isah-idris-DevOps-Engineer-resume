@@ -1,4 +1,4 @@
-# Independent Consultant @Udacity
+# DevOps Independent Consultant @Udacity
 
 **Udacity** - *Oct 2020 - Sept 2021*
 
