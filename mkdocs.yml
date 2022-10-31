@@ -24,6 +24,7 @@ nav:
             - Istio - k8s Traffic management: 'continuous-learning/list/Istio.md'
             - Flux CD: 'continuous-learning/list/fluxcd.md'
             - Nomad: 'continuous-learning/list/Nomad.md'
+
         - Books: 
             - Reading: 'continuous-learning/list/Radical Candour.md'
             - Read: 'continuous-learning/list/The Path to GitOps.md'
