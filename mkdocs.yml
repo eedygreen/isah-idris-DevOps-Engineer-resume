@@ -21,6 +21,7 @@ nav:
             - Kubernetes API: 'continuous-learning/list/KubeBuilder - K8s Operator development.md'
             - Lab: 'continuous-learning/list/Istio Lab.md'
             - Istio - k8s Traffic management: 'continuous-learning/list/Istio.md'
+            - Flux CD: 'continuous-learning/list/fluxcd.md'
             - Nomad: 'continuous-learning/list/Nomad.md'
         - Books: 
             - Reading: 'continuous-learning/list/Radical Candour.md'
