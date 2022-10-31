@@ -19,11 +19,13 @@ nav:
             - GitOps: 'continuous-learning/list/GitOps.md'
             - Go with Kubernetes Operator: 'continuous-learning/list/Go Programming.md'
             - Kubernetes API: 'continuous-learning/list/KubeBuilder - K8s Operator development.md'
+
         - Lab: 
             - Status: 'continuous-learning/list/labs.md'
             - Istio - k8s Traffic management: 'continuous-learning/list/Istio.md'
             - Flux CD: 'continuous-learning/list/fluxcd.md'
             - Nomad: 'continuous-learning/list/Nomad.md'
+
         - Books: 
             - Reading: 'continuous-learning/list/Radical Candour.md'
             - Read: 'continuous-learning/list/The Path to GitOps.md'
