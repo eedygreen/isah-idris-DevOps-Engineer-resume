@@ -23,6 +23,7 @@ nav:
             - Status: 'continuous-learning/list/labs.md'
             - Istio - k8s Traffic management: 'continuous-learning/list/Istio.md'
             - Flux CD: 'continuous-learning/list/fluxcd.md'
+            - Redis: 'continuous-learning/list/Redis.md'
             - Nomad: 'continuous-learning/list/Nomad.md'
 
         - Books: 
