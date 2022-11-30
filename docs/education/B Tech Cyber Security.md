@@ -1,6 +1,6 @@
 # B.Tech Cyber Security
 
-### Web3 DevOps Engineer 
+### **Web3 DevOps Engineer** 
 **Alchemy University**
 - Ethereum Development and Decentralized Infrastructure
    
