@@ -1,6 +1,6 @@
 # BlockOps @Chainsafe
 
-**Chainsafe** - *Dec 2023 -*
+**Chainsafe** - *Dec 2022 -*
 
 - Blockcahins DevOps Engineer with Sygmaprotocol, **creating strategy for peer-to-peer distributed systems**
 - Communicates with Engineer to remove blockers
