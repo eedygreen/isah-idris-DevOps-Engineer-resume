@@ -4,6 +4,7 @@ nav:
    - Home: 'README.md'
    - Experience: 
         - 9yrs of Experience: 'experience/Work_Experience_9yrs.md'
+        - BlockOps Engineer": 'experience/BlockOps_Engineer.md'
         - DevOps Engineer II @Bitso: 'experience/DevOps_Engineer_II_@Bitso.md'
         - DevOps Independent Consultant @Udacity: 'experience/Independent_Consultant_@Udacity.md'
         - IT Consultant: 'experience/IT_Consultant.md'
@@ -15,6 +16,7 @@ nav:
    - Certifications: 'certification/Certifications.md'
    - Continuous Learning: 
         - Stacks & Skills: 
+            - Disttributed Systems: 'continuous-learning/list/Distributed Systems.md'
             - FastAPI: 'continuous-learning/list/FastAPI.md'
             - GitOps: 'continuous-learning/list/GitOps.md'
             - Go with Kubernetes Operator: 'continuous-learning/list/Go Programming.md'
