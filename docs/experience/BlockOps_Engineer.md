@@ -10,7 +10,8 @@
 - **Migrated** the Amazon Elastic container registry **to Github container registry**
 - Created **security layer** and two repo strategy that checked in **sensitive data** on the pipelines at CICD runtime
 - Planned, created and implemented TLS secruity with Eliptic Curve on Web 3 UI and RSA_2048 on distributed peer-to-peeer applications
-- DNS management with Cloudflare
+- Created DNS hierarchy for Devnet, testnet and mainnet for sygmaprotocol domains
+- Managed DNS with Cloudflare 
 - **Refactored**  duplicates codesand **reduced** the numbers of 5 GitHub runners to 1 runner **and increase deployment time while reduces cost on github runners**
 - Reduced multiples `task definition` files with **jinja2 template rendering** at CICD runtime and injecting the json versions for deployments on Relayers
 - Created relaible and repeatable infrastructure in web3 using GitOps principles
