@@ -15,7 +15,7 @@
 - I **collaborated** with **team members** using **Jira** to identify tech-debt and improved current processes via Sprint and Scrum
 - I also created a roadmap to improve **engineering communication & organisation strategies**
 
-### **Tools and technology used**
+### **Tools and Technology used**
 
 CICD            | Cloud          | Microservices  | GitOps         | IAC            | Collaboration
 ----------------|----------------|----------------|----------------|----------------|----------------
