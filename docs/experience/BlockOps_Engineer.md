@@ -1,21 +1,22 @@
-# BlockOps @Chainsafe
+# BlockOps Engineer @Chainsafe
 
 **Chainsafe** - *Dec 2022 -*
 
-- Blockcahins DevOps Engineer with Sygmaprotocol, **creating strategy for peer-to-peer distributed systems**
+- **Distributed DevOps Engineer** with Sygmaprotocol, **creating** and **developing** DevOps and SRE strategy for **peer-to-peer distributed systems**
 - Communicates with Engineer to remove blockers
-- **Reddesigned** and **improved CICD pipelines** and **increased** deployment speed **from 15 mins 3 mins**
+- **Redesigned** and **improved CICD pipelines** and **increased** deployment speed **from 15 mins 3 mins**
 - I improved developer experience and **tooling** through creating pipelin that **Build, Test, Deploy** & **troubleshoot** and 
 - **I engaged** on daily **troubleshooting** & resolving **deployments** (issues with developers) of different **distributed and peer-to-peer’ environments**
 - **Migrated** the Amazon Elastic container registry **to Github container registry**
 - Created **security layer** and two repo strategy that checked in **sensitive data** on the pipelines at CICD runtime
 - Planned, created and implemented TLS secruity with Eliptic Curve on Web 3 UI and RSA_2048 on distributed peer-to-peeer applications
-- DNS management with Cloudflare
+- Created DNS hierarchy for Devnet, testnet and mainnet for sygmaprotocol domains
+- Managed DNS with Cloudflare 
 - **Refactored**  duplicates codesand **reduced** the numbers of 5 GitHub runners to 1 runner **and increase deployment time while reduces cost on github runners**
 - Reduced multiples `task definition` files with **jinja2 template rendering** at CICD runtime and injecting the json versions for deployments on Relayers
-- Created fast, relaible and repeatable infrastructure using GitOps principles in web3
+- Created relaible and repeatable infrastructure in web3 using GitOps principles
 - Applying DevOps and Judoka principles to improve the infrastructure and make web3 adoptable and usable 
-- Implement IaC with Terraform and imported previous infrastructure into terraform 
+- Created a roadmap to manage the infrastructure as code and implemented IaC with Terraform and imported previous infrastructure into terraform 
 
 ### **Tools and Technology used**
 
