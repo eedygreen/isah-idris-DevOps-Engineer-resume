@@ -6,7 +6,7 @@
 - Communicates with Engineer to remove blockers
 - **Redesigned** and **improved CICD pipelines** and **increased** deployment speed **from 15 mins 3 mins**
 - I improved developer experience and **tooling** through creating pipelin that **Build, Test, Deploy** & **troubleshoot** and 
-- **I engaged** on daily **troubleshooting** & resolving **deployments** (issues with developers) of different **distributed and peer-to-peer’ environments**
+- **I engaged** on daily **troubleshooting** & resolving **deployments** (issues with developers) of different **distributed and peer-to-peer environments**
 - **Migrated** the Amazon Elastic container registry **to Github container registry**
 - Created **security layer** and two repo strategy that checked in **sensitive data** on the pipelines at CICD runtime
 - Planned, created and implemented TLS secruity with Eliptic Curve on Web 3 UI and RSA_2048 on distributed peer-to-peeer applications
