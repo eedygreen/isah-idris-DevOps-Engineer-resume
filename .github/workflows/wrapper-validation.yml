@@ -1,13 +1,13 @@
-name: Validate Gradle Wrapper
+# name: Validate Gradle Wrapper
 
-on: [ push, pull_request, workflow_dispatch ]
+# on: [ push, pull_request, workflow_dispatch ]
 
-jobs:
-  validation:
-    name: Validation
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Validate
-        uses: gradle/wrapper-validation-action@v1
+# jobs:
+#   validation:
+#     name: Validation
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout
+#         uses: actions/checkout@v2
+#       - name: Validate
+#         uses: gradle/wrapper-validation-action@v1

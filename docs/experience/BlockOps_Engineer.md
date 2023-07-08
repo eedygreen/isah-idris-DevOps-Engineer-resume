@@ -17,6 +17,7 @@
 - Created relaible and repeatable infrastructure in web3 using GitOps principles
 - Applying DevOps and Judoka principles to improve the infrastructure and make web3 adoptable and usable 
 - Created a roadmap to manage the infrastructure as code and implemented IaC with Terraform and imported previous infrastructure into terraform 
+- Build and integrated a customised OpenTelemetry Agent for gathering metrics, logs for web3 bridge - **peer-to-peer distributed systems** for sygma protocol and clients using sygma protocol software
 
 ### **Tools and Technology used**
 
