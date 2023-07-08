@@ -2,7 +2,7 @@
 
 **Hey, I am ISAH, IDRIS**
 
-> I am an aspiring Principal DevOps Engineer with an outgoing personality. I am a curious learner of technology, specifically on distributed systems and web3. On ownership initiative, I focus my thought processes as part of a team or as an individual contributor providing developer experience (DevX) enablement-related services or executing projects related to CICD using DevOps practices with open-source or/and proprietary resources.
+> I am an aspiring Principal DevOps Engineer with an outgoing personality. I am a curious learner of technology, specifically on distributed systems and emerging technology. On ownership initiative, I focus my thought processes as part of a team or as an individual contributor providing developer experience (DevX) enablement-related services or executing projects related to CICD using DevOps practices with open-source or/and proprietary resources.
 
 ---
 
