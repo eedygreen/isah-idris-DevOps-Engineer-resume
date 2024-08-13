@@ -1,3 +1,5 @@
+[![Eedy Green's GitHub stats](https://github-readme-stats.vercel.app/api?username=eedygreen)](https://github.com/anuraghazra/github-readme-stats)
+
 ﻿![Gradle Build](https://github.com/eedygreen/isah-idris-DevOps-Engineer-resume/actions/workflows/build.yml/badge.svg)   ![Gradle Validate](https://github.com/eedygreen/isah-idris-DevOps-Engineer-resume/actions/workflows/wrapper-validation.yml/badge.svg)   ![Bash](https://github.com/eedygreen/isah-idris-DevOps-Engineer-resume/actions/workflows/lint.yml/badge.svg)
 ## [ABOUT ME](https://eedygreen.github.io)
 
